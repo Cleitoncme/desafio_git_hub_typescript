@@ -1,0 +1,26 @@
+{
+  "name": "desafio_git_hub_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node ./src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleitoncme/desafio_git_hub_typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cleitoncme/desafio_git_hub_typescript/issues"
+  },
+  "homepage": "https://github.com/Cleitoncme/desafio_git_hub_typescript#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "typescript": "^6.0.3"
+  }
+}
